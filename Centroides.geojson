@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Centroides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "SOUTH WEST BRITAIN", "AREA (km)": 50198, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_South_West_Britain.pdf", "X": -6.879, "Y": -6.879 }, "geometry": { "type": "Point", "coordinates": [ -6.878626251580505, 49.940820081103986 ] } },
+{ "type": "Feature", "properties": { "NAME": "NORTH SEA", "AREA (km)": 120543, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_North_Sea_NCS.pdf", "X": 3.623, "Y": 3.623 }, "geometry": { "type": "Point", "coordinates": [ 3.623071760172004, 59.099639359263939 ] } },
+{ "type": "Feature", "properties": { "NAME": "GREAT AUSTRALIAN BIGHT", "AREA (km)": 155000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Gab.pdf", "X": 130.935, "Y": 130.935 }, "geometry": { "type": "Point", "coordinates": [ 130.934522822310356, -34.368414650396133 ] } },
+{ "type": "Feature", "properties": { "NAME": "PERTH OFFSHORE", "AREA (km)": 80000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Perth-Offshore.pdf", "X": 112.769, "Y": 112.769 }, "geometry": { "type": "Point", "coordinates": [ 112.769258269117103, -27.742852840632711 ] } },
+{ "type": "Feature", "properties": { "NAME": "GIPPSLAND", "AREA (km)": 22000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Gippsland.pdf", "X": 148.078, "Y": 148.078 }, "geometry": { "type": "Point", "coordinates": [ 148.07809427820041, -38.654222915758126 ] } },
+{ "type": "Feature", "properties": { "NAME": "NORTH WEST SHELF", "AREA (km)": 1025000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Nws.pdf", "X": 122.114, "Y": 122.114 }, "geometry": { "type": "Point", "coordinates": [ 122.113542561872521, -15.171401604384153 ] } },
+{ "type": "Feature", "properties": { "NAME": "ROCKALL", "AREA (km)": 155028, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Rockall.pdf", "X": -9.885, "Y": -9.885 }, "geometry": { "type": "Point", "coordinates": [ -9.885477265560937, 58.621998250754821 ] } },
+{ "type": "Feature", "properties": { "NAME": "BARENTS SEA", "AREA (km)": 259495, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Barents_Sea_NCS.pdf", "X": 25.386, "Y": 25.386 }, "geometry": { "type": "Point", "coordinates": [ 25.385753562882453, 72.656809686961211 ] } },
+{ "type": "Feature", "properties": { "NAME": "NORWEGIAN SEA", "AREA (km)": 260000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Norwegian_Sea_NCS.pdf", "X": 5.878, "Y": 5.878 }, "geometry": { "type": "Point", "coordinates": [ 5.878179293130992, 65.311340048121679 ] } },
+{ "type": "Feature", "properties": { "NAME": "NORTH SEA UK", "AREA (km)": 212600, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_North_Sea_UK_v1.pdf", "X": 0.477, "Y": 0.477 }, "geometry": { "type": "Point", "coordinates": [ 0.477400531474805, 57.175946458736739 ] } },
+{ "type": "Feature", "properties": { "NAME": "TARANAKI", "AREA (km)": 100000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Taranaki.pdf", "X": 173.169, "Y": 173.169 }, "geometry": { "type": "Point", "coordinates": [ 173.169451995739166, -38.141573552735558 ] } },
+{ "type": "Feature", "properties": { "NAME": "CANTERBURY - GS", "AREA (km)": 176000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Canterbury_GSB.pdf", "X": 171.145, "Y": 171.145 }, "geometry": { "type": "Point", "coordinates": [ 171.144994428983551, -46.937613693256345 ] } },
+{ "type": "Feature", "properties": { "NAME": "VELMOD-4", "AREA (km)": 99181, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_VELMOD-4_Netherlands.pdf", "X": 4.682, "Y": 4.682 }, "geometry": { "type": "Point", "coordinates": [ 4.682457561002721, 53.141700564047682 ] } },
+{ "type": "Feature", "properties": { "NAME": "OTWAY - SORELL", "AREA (km)": 575000, "LINK": "http://files.estimages.com/ESTIMAGES_RVM_Otway.pdf", "X": 143.099, "Y": 143.099 }, "geometry": { "type": "Point", "coordinates": [ 143.098677673540408, -40.001941585680889 ] } }
+]
+}
